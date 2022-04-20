@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafaozturk0614/PCAT.git"
+  },
+  "keywords": [
+    "phota",
+    "app",
+    "camera"
+  ],
+  "author": "Mustafa Öztürk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafaozturk0614/PCAT/issues"
+  },
+  "homepage": "https://github.com/mustafaozturk0614/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
